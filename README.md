@@ -27,7 +27,8 @@ O primeiro jogo é simples e intuitivo: o usuário deve inserir 3 valores e o pr
 ### Cada Jogo possui uma barra de navegação para voltar ao Menu Principal ou avançar para outros Jogos
 ![image](https://github.com/user-attachments/assets/06beae21-8c70-4a6e-926c-80250f375e8b)
 
-
+# Como será o seu peso neste planeta? 🪐
+O segundo jogo serve para que o utente descubra o quanto pesaria em diferentes planetas do Sistema Solar. Tudo o que ele precisa fazer é inserir o seu peso em Kg na Terra e selecionar o planeta desejado. 
 ![image](https://github.com/user-attachments/assets/e8042eec-285f-495b-a9bb-d63653bdde9e)
 ![image](https://github.com/user-attachments/assets/b724ae6a-75d3-4fe0-9847-7783cf4eaa14)
 
