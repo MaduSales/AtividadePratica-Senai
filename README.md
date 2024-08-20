@@ -9,6 +9,9 @@ Assim que o usuário acessar a visualização gráfica do Form, ele será direci
 ![image](https://github.com/user-attachments/assets/da00298e-5786-4981-9bd7-24c3d6b3a8f8)
 ![image](https://github.com/user-attachments/assets/6c8e8464-cda1-4819-9925-6859dfba49af)
 
+
+# Número Maior e Menor 🔢
+O primeiro jogo é simples e intuitivo: o usuário deve inserir 3 valores e o programa deverá informar qual o maior e qual omenor número digitado ao clicar em "Calcular".
 ![image](https://github.com/user-attachments/assets/c12f9514-6955-49ee-8593-698ec99c743b)
 ![image](https://github.com/user-attachments/assets/007d1dae-2484-4cb3-afc3-cba8b2b71b42)
 ![image](https://github.com/user-attachments/assets/06beae21-8c70-4a6e-926c-80250f375e8b)
