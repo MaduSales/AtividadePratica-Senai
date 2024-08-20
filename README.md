@@ -29,7 +29,10 @@ O primeiro jogo é simples e intuitivo: o usuário deve inserir 3 valores e o pr
 
 # Como será o seu peso neste planeta? 🪐
 O segundo jogo serve para que o utente descubra o quanto pesaria em diferentes planetas do Sistema Solar. Tudo o que ele precisa fazer é inserir o seu peso em Kg na Terra e selecionar o planeta desejado. 
+
 ![image](https://github.com/user-attachments/assets/e8042eec-285f-495b-a9bb-d63653bdde9e)
+<br>
+### O jogo retornará o resultado em uma caixa de texto que piscará na tela assim que a pessoa pressionar "Calcular"
 ![image](https://github.com/user-attachments/assets/b724ae6a-75d3-4fe0-9847-7783cf4eaa14)
 
 ![image](https://github.com/user-attachments/assets/41ce5109-7468-482f-a3cd-43594f4a2bf5)
