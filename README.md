@@ -45,7 +45,7 @@ O último jogo é para os amantes de futebol! Solicita ao usuário que digite o 
 <br><br><br>
 
 # Créditos 🛠
-O trabalho foi realizado em dupla, sendo a minha dupla o [()]
+O trabalho foi realizado em dupla, sendo a minha dupla o [Gabriel Celestino](https://github.com/GabrielCelestinoSt). Acesse o GitHub dele clicando no link em seu nome!
 
 
 
