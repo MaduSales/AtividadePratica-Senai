@@ -15,8 +15,13 @@ O primeiro jogo é simples e intuitivo: o usuário deve inserir 3 valores e o pr
 
 ![image](https://github.com/user-attachments/assets/c12f9514-6955-49ee-8593-698ec99c743b)
 <br>
+<br>
+
+## Exemplo:
 ![image](https://github.com/user-attachments/assets/007d1dae-2484-4cb3-afc3-cba8b2b71b42)
 <br>
+<br>
+## Cada Jogo possui uma barra de navegação para voltar ao Menu Principal ou avançar para outros Jogos
 ![image](https://github.com/user-attachments/assets/06beae21-8c70-4a6e-926c-80250f375e8b)
 
 
