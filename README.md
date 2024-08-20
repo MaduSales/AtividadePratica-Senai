@@ -11,7 +11,7 @@ Assim que o usuário acessar a visualização gráfica do Form, ele será direci
 <br>
 <br>
 ![image](https://github.com/user-attachments/assets/6c8e8464-cda1-4819-9925-6859dfba49af)
-<br><br><br><br>
+<br><br><br>
 
 # 2º - Número Maior e Menor 🔢
 O primeiro jogo é simples e intuitivo: o usuário deve inserir 3 valores e o programa deverá informar qual o maior e qual o menor número digitado ao clicar em "Calcular".
@@ -26,6 +26,8 @@ O primeiro jogo é simples e intuitivo: o usuário deve inserir 3 valores e o pr
 <br>
 ### Cada Jogo possui uma barra de navegação para voltar ao Menu Principal ou avançar para outros Jogos
 ![image](https://github.com/user-attachments/assets/06beae21-8c70-4a6e-926c-80250f375e8b)
+<br><br><br>
+
 
 # 3° - Como será o seu peso neste planeta? 🪐
 O segundo jogo serve para que o utente descubra o quanto pesaria em diferentes planetas do Sistema Solar. Tudo o que ele precisa fazer é inserir o seu peso em Kg na Terra e selecionar o planeta desejado. 
