@@ -2,11 +2,15 @@
 
 Atividade prática realizada em dupla como complemento dos estudos em Lógica de Programação e Algoritmos do curso de Técnico em Desenvolvimento de Sistemas no SENAI 
 <hr>
+<br>
+<br>
+<br>
 
 # Iniciando pelo Menu 🚂
 Assim que o usuário acessar a visualização gráfica do Form, ele será direcionado para o Menu Principal, do qual dá acesso a todas as outras atividades que poderão ser visualizadas ao executar o comando de instrução: selecionar qualquer uma das atividades.
 
 ![image](https://github.com/user-attachments/assets/da00298e-5786-4981-9bd7-24c3d6b3a8f8)
+<br>
 <br>
 ![image](https://github.com/user-attachments/assets/6c8e8464-cda1-4819-9925-6859dfba49af)
 
