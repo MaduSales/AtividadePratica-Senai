@@ -11,7 +11,7 @@ Assim que o usuário acessar a visualização gráfica do Form, ele será direci
 <br>
 <br>
 ![image](https://github.com/user-attachments/assets/6c8e8464-cda1-4819-9925-6859dfba49af)
-
+<br><br>
 
 # Número Maior e Menor 🔢
 O primeiro jogo é simples e intuitivo: o usuário deve inserir 3 valores e o programa deverá informar qual o maior e qual o menor número digitado ao clicar em "Calcular".
