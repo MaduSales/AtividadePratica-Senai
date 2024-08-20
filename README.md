@@ -42,6 +42,10 @@ O segundo jogo serve para que o utente descubra o quanto pesaria em diferentes p
 O último jogo é para os amantes de futebol! Solicita ao usuário que digite o placar dos jogos, e assim, o programa retornará o resultado do vencedor de forma separada para cada jogo.
 
 ![image](https://github.com/user-attachments/assets/41ce5109-7468-482f-a3cd-43594f4a2bf5)
+<br><br><br>
+
+# Créditos 🛠
+O trabalho foi realizado em dupla, sendo a minha dupla o [()]
 
 
 
